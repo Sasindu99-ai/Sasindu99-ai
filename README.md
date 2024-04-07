@@ -57,8 +57,8 @@
   Profile 3D Contributions 🔰
 </h3>
 
-## See my contributions get eaten by snake
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+## See my contributions get eaten by the snake
+![snake gif](https://github.com/Sasindu99-ai/Sasindu99-ai/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
