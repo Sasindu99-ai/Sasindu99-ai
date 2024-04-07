@@ -58,7 +58,7 @@
 </h3>
 
 
-<img alt="Coding" width="900" src="https://github.com/NimeshPiyumantha/red-alpha/blob/main/github-contribution-grid-snake.svg">
+<img alt="Coding" width="900" src="https://github.com/Sasindu99-ai/red-alpha/blob/main/github-contribution-grid-snake.svg">
 
 ---
 
@@ -73,11 +73,11 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
-<a href="https://github.com/Sasindu99-ai"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="nipuna_piyumal" height="30" width="40" /></a>
-<a href="https://lk.linkedin.com/in/Nipuna Piyumal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" height="30" width="40" /></a>
-<a href="https://www.facebook.com/nowety.piyumalNipuna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/piyumalnipuna/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="piyumalnipuna" height="30" width="40" /></a>
-<a href="https://www.slack.com"><img align="slack" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original-wordmark.svg" alt="nipuna_piyumal" height="50" width="40" /></a>
+<a href="https://github.com/Sasindu99-ai"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="sasindu_wijethunga" height="30" width="40" /></a>
+<a href="https://lk.linkedin.com/in/sasindu-sulochana-90007226b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" height="30" width="40" /></a>
+<a href="https://www.facebook.com/sasindu.wijethunge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_sasi_001_/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sasinduwijethunga" height="30" width="40" /></a>
+<a href="https://www.slack.com"><img align="slack" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original-wordmark.svg" alt="saisndu_wijethunga" height="50" width="40" /></a>
 
 </p>
 
