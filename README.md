@@ -57,8 +57,8 @@
   Profile 3D Contributions 🔰
 </h3>
 
-
-<img alt="Coding" width="900" src="https://github.com/Sasindu99-ai/red-alpha/blob/main/github-contribution-grid-snake.svg">
+## See my contributions get eaten by snake
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 
 ---
 
