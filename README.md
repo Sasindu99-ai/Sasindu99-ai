@@ -1,10 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=2ED573&width=1000&lines=-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Sasindu+Sulochana;🎓+UOP+-+University+of+Peradeniya;📚+Computer+Engineering+Science+Student;)](https://git.io/typing-svg)
-
-<h3 align="center"><b><i>Full Stack Developer from Sri Lanka</i></b></h3>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Science+Student;Competitive+Programmer;Student+@+University+of+Peradeniya;Java+Kotlin%20|%20Python%20|%20Swift%20|%20PHP;Architecture%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-</p>
 <be>
 
 <!-- <img align="center" alt="myProfile" src="https://github.com/Sasindu99-ai/My-Portfoliyo-2/blob/master/assets/piyumal.png" height="500" width="1100"> -->
