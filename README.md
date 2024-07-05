@@ -7,18 +7,18 @@
 
 
 <!--follows and code line-->
-<p align="center">
+<!--p align="center">
   <a href="https://skillicons.dev">
     <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.9%20million%20lines%20of%20code-blue" width="600" height="30" />
   </a>
-</p>
+</p-->
 
 
-<p align="center">
+<!--p align="center">
   <a href="https://skillicons.dev">
     <img src="https://komarev.com/ghpvc/?username=Sasindu99-ai&label=Profile%20views&color=0e75b6&style=flat" alt="Sasindu99-ai" height="30" />
   </a>
-</p>
+</p-->
 
 
 [![GitHub followers](https://img.shields.io/github/followers/Sasindu99-ai.svg?style=social&label=followers&maxAge=2592000)](https://github.com/Sasindu99-ai?tab=followers)
