@@ -93,9 +93,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=2ED573&width=150&lines=My+Tool%3A)](https://git.io/typing-svg)
 
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
-<a href="https://gluonhq.com/products/scene-builder/" target="_blank"> <img src="https://i2.wp.com/gluonhq.com/wp-content/uploads/2015/02/SceneBuilderLogo.png?fit=781%2C781&ssl=1" width="50" height="50"/>&nbsp;&nbsp;&nbsp;</a>
-<a href="https://www.google.com/chrome" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original-wordmark.svg" alt="chrome" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
+
 <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
 <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
 <a href="https://www.slack.com" target="_blank"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="50" height="50"/> &nbsp;&nbsp;&nbsp;</a> 
@@ -110,13 +108,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5000&color=2ED573&width=600&lines=-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+)](https://git.io/typing-svg)
 
-***My Contributions*** 😥 <br>
-
-<p align="center">
-  
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sasindu99-ai&theme=tokyonight" />
-  
- <p>
 
 <br>
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sasindu99-ai&theme=tokyonight&utcOffset=8" />
