@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=2ED573&width=1000&lines=-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Sasindu+Wijethunga;🎓+UOP+-+University+of+Peradeniya;📚+Mechanical+Engineering+Science+Student;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Sasindu+Wijethunga;🎓+UOP+-+University+of+Peradeniya;📚+Mechanical+Engineering+Student;)](https://git.io/typing-svg)
 <be>
 
 <!-- <img align="center" alt="myProfile" src="https://github.com/Sasindu99-ai/My-Portfoliyo-2/blob/master/assets/piyumal.png" height="500" width="1100"> -->
@@ -27,7 +27,7 @@
 ## 👨‍🦰 About me :
 
 - 👨‍🎓 I'm`Studying` at the University of Peradeniya...
-- 🌱 I’m currently learning `Mechanical Engineering Science`.
+- 🌱 I’m currently learning `Mechanical Engineering`.
 - 💻 I am a competitive programmer mainly at `VVECON` & `VVECON Developers`.
 - 👨 Always `learning new things`
 - 👯 I’m looking to collaborate.
